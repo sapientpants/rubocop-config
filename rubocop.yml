@@ -1,0 +1,6 @@
+AllCops:
+  NewCops: enable
+  UseCache: false
+
+Layout/LineLength:
+  Max: 80
